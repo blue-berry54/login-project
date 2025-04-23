@@ -31,7 +31,7 @@ public class org extends Application {
             System.err.println("Error loading icon: " + e.getMessage());
         }
         
-        stage.setTitle("lauda");
+        stage.setTitle("2D Game");
         stage.setScene(scene);
         stage.show();
     }
